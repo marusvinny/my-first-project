@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wraped{
+    background: url(picche.jpg);
+    width: calc(2164px  / 2);
+    height: 450px;
+    animation: img-animation 1s steps(5) infinite;
+}
+@keyframes img-animation {
+    
+    from {
+        background-position: 0;
+        
+    }
+    
+       to {
+        background-position: 2164px ;
+        
+    }
+}

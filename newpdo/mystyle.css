@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+   background-color: lightgreen;
+   border-radius: 5px;
+    background-attachment: fixed;
+}
+h1.dei{border-bottom-style: solid;}
+h2.mai{
+    text-align: center;
+    background-color: #aaccff;
+   
+}
+h3.mai{
+    text-align: center;
+    background-color: red;
+}
+h3.large{
+    color: blue;
+    font-size: 150%;
+}
+textarea.roby{
+    background-color: rgb(230,45,255);
+}
+body{
+    background-image: url("pic_bulbon.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
